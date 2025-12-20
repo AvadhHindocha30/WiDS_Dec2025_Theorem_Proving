@@ -50,7 +50,7 @@
         ["P1", "P2"],
         ["~P1", "~P2"]
       ],
-      "expected_sat": false
+      "expected_sat": true
     },
     {
       "id": 7,
